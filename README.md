@@ -1,6 +1,7 @@
 # Credit-Risk-Management-Model
 
 ### [train-data](https://drive.google.com/drive/folders/1-pwcPyKBsz49qDfn42VHirtutonfr_Mt?usp=sharing)
+### [test-data](https://drive.google.com/file/d/1dn3QVRtOGEFcVne1xGQeBR68xD0k0uMB/view?usp=sharing)
 
 ## Introduction
 
